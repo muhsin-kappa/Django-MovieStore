@@ -1,0 +1,15 @@
+body {
+background-color: white;
+}
+
+a {
+font-size: 16px;
+font-weight: bolder;
+color: red;
+padding: 4px;
+}
+
+a:hover, a:focus{
+color: green;
+text-decoration: none;
+}
